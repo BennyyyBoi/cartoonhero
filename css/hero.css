@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: darkorange;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+header h1{
+	color: black;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 160px;
+	width: 300px;
+	border: 10px solid;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+main img{
+	max-width: 100%;
+}
